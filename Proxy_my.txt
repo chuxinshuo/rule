@@ -1,0 +1,6 @@
+#ai
+ai.google.dev
+
+#PT
+ptchdbits
+star-space.net
