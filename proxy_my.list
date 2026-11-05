@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,star-space.net
 DOMAIN-SUFFIX,newsapi.org
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,www.caixinglobal.com
@@ -8,3 +7,9 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,supabase.com
 DOMAIN-SUFFIX,openrouter.ai
+
+# PT站点
+DOMAIN-SUFFIX,star-space.net
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,springsunday.net
